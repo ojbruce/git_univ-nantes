@@ -1,6 +1,9 @@
 -Git fac nantes:
 ---------------
 
+This a simple way to access github repositories.
+
+
 Connect to bastion (ssh):
 
 ```$ ssh -f -N -L:9418:github.com:9418 <e+n°etu>@bastion.etu.univ-nantes.fr```
