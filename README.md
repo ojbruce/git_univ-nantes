@@ -19,6 +19,9 @@ Push:
 
 ```$ git push -v https://github.com/ojbruce/BDD_project.git``` 
 
+```This command also works without bastion (just for pushing), but be carefull to correctly setup the proxy (git config http.proxy)```
+
+
 Pull:
 
 ```$ git pull -v git://localhost/ojbruce/BDD_project.git```
